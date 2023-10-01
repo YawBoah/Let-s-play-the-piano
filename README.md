@@ -3,9 +3,11 @@
 Welcome to the enchanting world of "Symphony of the Soul." Dive into an exhilarating musical adventure as you unlock the secrets of the piano with the touch of your fingertips. Whether you're a seasoned pianist or a curious beginner, this web-based piano application invites you to embark on a journey of melody and rhythm.
 
 ## Preview 
-- ### Without the keys showing 
+- ### No key on the piano is showing. This is done using the Show Keys button at the top right of the paino
   ![image](https://github.com/YawBoah/Let-s-play-the-piano/assets/126890146/a8b21de9-9463-4003-9fa6-5e5cd37e224d)
 
+- ### All the keys are showing. This is done using the Show Keys button at the top right of the paino
+  ![Screenshot 2023-10-01 194440](https://github.com/YawBoah/Let-s-play-the-piano/assets/126890146/33a96e30-9802-4868-9fb9-f0d66ba31a41)
 
 ## Explore the Magic
 
