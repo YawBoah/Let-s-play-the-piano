@@ -57,6 +57,17 @@ This enchanted realm is always open to magical enhancements and harmonic collabo
 
 "Symphony of the Soul" is an open-source creation, enveloped in the enchanting embrace of the [MIT License](LICENSE). Feel free to compose your own variations of this musical adventure.
 
+## 🎹 Play Piano
+
+Unleash your inner musician with our virtual piano. Whether you're a seasoned pianist or just starting, our interactive piano lets you play beautiful melodies with a click. 
+
+Dive into the world of music and start creating harmonious melodies. Click here to play now! 🎹
+
+[Play Now](#your-play-piano-link)
+
+Feel the joy of playing the piano right from your web browser. It's time to create beautiful music!
+
+
 ---
 
 Let your heart dance to the tune of "Symphony of the Soul." Embrace the magic, and may your melodies resonate with the cosmos.
