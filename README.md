@@ -63,7 +63,7 @@ Unleash your inner musician with our virtual piano. Whether you're a seasoned pi
 
 Dive into the world of music and start creating harmonious melodies. Click here to play now! 🎹
 
-[Play Now](#your-play-piano-link)
+[Play Now](https://yawboah.github.io/Let-s-play-the-piano/)
 
 Feel the joy of playing the piano right from your web browser. It's time to create beautiful music!
 
